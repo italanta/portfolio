@@ -66,7 +66,7 @@
 <!-- TODO: Update at the end of every day with your  -->
 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
 
-👨‍💻 Review my projects at [https://github.com/](https://github.com/JohnKamaujk)
+👨‍💻 Review my projects at [https://github.com/JohnKamaujk](https://github.com/JohnKamaujk)
 
 ### Interested ?
 
