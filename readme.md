@@ -70,7 +70,7 @@
 
 ### Interested ?
 
-📫 Reach me on **jente@elewa.ke**
+📫 Reach me on **johnjkkamau@gmail.com**
 
 <br />
 
