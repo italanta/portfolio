@@ -13,7 +13,7 @@
 <h1 align="center">Hi 👋, I'm James M Githire</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">An graduate of Moringa, ready to start working with iTalanta open-source!</h3>
+<h3 align="center">A graduate of Moringa, ready to start working with iTalanta open-source!</h3>
 
 <br/>
 
@@ -64,7 +64,7 @@
 <!-- TODO: Update at the end of every day with your  -->
 <!-- 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)! -->
 
-👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta)
+👨‍💻 Review my projects at [https://github.com/JamesMGithire](https://github.com/JamesMGithire)
 
 ### Interested ?
 
