@@ -10,28 +10,28 @@
   -- 
   -->
 
-<h1 align="center">Hi 👋, I'm Jente Rosseel</h1>
+<h1 align="center">Hi 👋, I'm Newton Ombese</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
+<h3 align="center">A graduate of Moringa School and currently an intern at iTalanta</h3>
 
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrosseel" alt="jrosseel" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newtonombese" alt="jrosseel" /></a> </p>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;"> 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/jrosseel" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jente Rosseel's LinkedIn" /></a> 
+  <a href="https://www.linkedin.com/in/newton-ombese-570862210/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Newton Ombese's LinkedIn" /></a> 
   <span>&nbsp;</span>
   <!-- Twitter -->
-  <a href="https://twitter.com/jenterosseel" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Jente Rosseel's Twitter" /></a> 
+  <a href="https://twitter.com/Bofulomkate" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Newton Ombese's Twitter" /></a> 
   <span>&nbsp;</span>
   <!-- Stack overflow -->
-  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a> 
+  <a href="https://stackoverflow.com/users/18025108/newton-ombese" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Newton Ombese's Stack Overflow" /></a> 
 
   <!-- Other badges -->
-  <!-- 
+<!--   
   <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a>  -->
 </p>
 
@@ -49,13 +49,13 @@
 
 💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
 
-📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
+📝 I regularly write articles on [https://dev.to/newtonombese](https://dev.to/newtonombese)
 
-📄 Know about my experiences [through my CV](about/resume.md)
+📄 Know about my experiences [through my CV](https://drive.google.com/file/d/1f4Tz9w9rbzecoak9FGsG7jpJpl_pyFbT/view?usp=sharing)
 
-🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
+🌱 I’m currently developing **working on a hotel management system with a team of 4 other developers**.
 
-⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹**
+⚡ Fun fact? **Find me behind reggae music🎵**
 
 ### My work
 
@@ -70,7 +70,7 @@
 
 ### Interested ?
 
-📫 Reach me on **jente@elewa.ke**
+📫 Reach me on **newtonombese1@gmail.com**
 
 <br />
 
@@ -147,7 +147,7 @@
 
 <h2 align="left">My GitHub Overview</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrosseel&show_icons=true&locale=en" alt="jrosseel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=newtonombese&show_icons=true&locale=en" alt="newtonombese" /></p>
 
 <!-- END -->
 
