@@ -13,7 +13,7 @@
 <h1 align="center">Hi 👋, I'm John Kamau</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A graduate of Moriga School who is interning at italanta!</h3>
+<h3 align="center">A graduate of Moringa School who is interning at italanta!</h3>
 
 <br/>
 
