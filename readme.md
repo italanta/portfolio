@@ -10,10 +10,10 @@
   -- 
   -->
 
-<h1 align="center">Hi 👋, I'm Jente Rosseel</h1>
+<h1 align="center">Hi 👋, I'm Jane kigenyi</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
+<h3 align="center">A student from Moringa, ready to start working with iTalanta open-source!</h3>
 
 <br/>
 
@@ -55,7 +55,7 @@
 
 🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
 
-⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹**
+⚡ Fun fact? **Find me behind the novel 🎸, movie🎺 or swimming 🎹**
 
 ### My work
 
@@ -66,11 +66,11 @@
 <!-- TODO: Update at the end of every day with your  -->
 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
 
-👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta)
+👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta/portfolio/)
 
 ### Interested ?
 
-📫 Reach me on **jente@elewa.ke**
+📫 Reach me on **janekigenyi@gmail.com**
 
 <br />
 
@@ -114,7 +114,7 @@
 <!-- EXPERIENCE II -->
 <h2 align="left">Project Elewa</h2>
 
-<p align="right"><b>2022 - 2023</b></p>
+<p align="right"><b>2023 - 2023</b></p>
 
 <p>
   The Elewa "Conversational Learning Manager" is a Learning Management System (LMS) which allows organisations to design courses based on chat bots (through a visual editor).
