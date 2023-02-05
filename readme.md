@@ -45,7 +45,7 @@
 
 ### Get to know me
 
-💬 I'm an novice on **React,Sass and Ruby on Rails.**
+💬 I'm an novice on **React, Angular, Sass and Ruby on Rails.**
 
 <!-- 📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/) -->
 
