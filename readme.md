@@ -1,25 +1,5 @@
-<!-- 
-  Welcome to iTalanta Open Source!
-  This repository will act as your home repo for the iTalanta/Moringa open source intern/externship.
+<h1 align="center">Hi 👋🏽, I'm   Ann Karanja</h1>
 
-  Please fork and update this portfolio page to fit your profile.
--->
-
-<!-- 
-  -- SECTION: INTRODUCTION
-  -- 
-  -->
-
-<h1 align="center">Hi 👋, I'm   Ann Karanja</h1>
-<!-- TODO: Replace with your intro text -->
-<!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<!-- <h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
-
-<!-- <br/> --> -->
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrosseel" alt="jrosseel" /></a> </p> -->
-
-<!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;"> 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ann-karanja-anna/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ann Karanja's LinkedIn" /></a> 
@@ -29,8 +9,8 @@
   <span>&nbsp;</span>
   
   <!-- Other badges -->
-  <!-- 
-  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a>  -->
+  
+  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Ann Karanja's Stack Overflow" /></a> 
 </p>
 
 <br/>
