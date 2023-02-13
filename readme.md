@@ -15,7 +15,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Macharia</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">An Alumni of Moringa School, ready to start working with iTalanta open-source!</h3>
+<h3 align="center">An Alumni of Moringa School working with iTalanta open-source!</h3>
 
 <br/>
 
@@ -49,15 +49,15 @@
 
 ### Get to know me
 
-💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
+<!-- 💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.** -->
 
 📝 I write articles on [https://medium.com/@danielhuios](https://medium.com/@danielhuios)
 
 <!-- 📄 Know about my experiences [through my CV](about/resume.md) -->
 
-🌱 I’m currently a software engineer in training having worked with **HTML5, CSS3, JavaScript, React, Ruby & RubyonRails**.
+🌱 I’m currently a software engineer having worked with **HTML5, CSS3, JavaScript, React, Ruby & RubyonRails**.
 
-⚡ Fun fact? **I am an adrenaline freak who also loves playing football and swimming**
+⚡ Fun fact? **I am an adrenaline junkie who also loves playing football and swimming**
 
 ### My work
 
@@ -66,7 +66,7 @@
 🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali)
 
 <!-- TODO: Update at the end of every day with your  -->
-🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
+<!-- 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)! -->
 
 👨‍💻 Review my projects at [https://github.com/DMacharia](https://github.com/DMacharia)
 
@@ -84,7 +84,7 @@
 <h1>My experience</h1>
 
 <!-- EXPERIENCE I -->
-<h2 align="left">Project Kujali</h2>
+<h2 align="left">Project Elewa-Group-Website</h2>
 
 <p align="right"><b>2023</b></p>
 
@@ -142,7 +142,37 @@
 
 <p style="margin-top:10px"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-<!-- END: EXPERIENCE I -->
+<!-- END: EXPERIENCE II -->
+
+<!-- EXPERIENCE III -->
+<!-- <h2 align="left">Project Kujali</h2>
+
+<p align="right"><b>2023</b></p>
+
+<p>
+  Kujali is a financial manager that allows businesses to plan for their spending through financial forecasts, and then to track their actual expenditure against what was forecasted.
+</p>
+<p> -->
+  <!-- Add summary of your own contributions -->
+    <!-- I am about to register my contirbutions for Project Kujali
+<!-- </p>
+<br/> --> -->
+
+<!-- Link in this table your actual contributions -->
+<!-- ### My contributions
+
+| Date     	| Issue 	| Status 	| Link 	|
+|----------	|-------	|--------	|------	|
+| 17/01/23 	| 🏇 Upgrade performance of financial forecasts| Completed | [#22](https://github.com/italanta/kujali/issues/22) |
+| 12/01/23	| 🏇 Upgrade performance of financial forecasts| Closed/Approved | [#22](https://github.com/italanta/kujali/issues/22) | -->
+
+
+<!-- ### The technologies I will use
+
+<p style="margin-top:10px"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a> </p> -->
+
+<!-- END: EXPERIENCE III -->
+
 
 <!-- Section: GITHUB OVERVIEW -->
 #
