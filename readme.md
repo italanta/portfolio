@@ -10,7 +10,7 @@
   
   <!-- Other badges -->
   
-  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Ann Karanja's Stack Overflow" /></a> 
+  <a href="https://stackoverflow.com/users/21138327/ann-karanja-dev-anna" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Ann Karanja's Stack Overflow" /></a> 
 </p>
 
 <br/>
@@ -25,24 +25,26 @@
 
 ### Get to know me
 
-💬 I'm an intermediate level in **software development.**
+💬 I'm an intermediate level **software developer.** 
 
 
 
-<!-- 📄 Know about my experiences [through my CV](about/resume.md) -->
+📄 Know about my experiences [through my CV](about/Ann-Karanja-resume.pdf)
 
 🌱 I’m currently interning at **Elewa ITalanta Kenya**.
 
-⚡ Fun fact? **Will open a rescue center one yard from hell**
+⚡ Fun fact? **Will run a rescue center, within a metre from hell**
 
 ### My work
 
 🔭 I’m currently working on [Elewa](https://github.com/italanta/elewa)
 <!-- OR -->
-🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali)
+<!-- 🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali) -->
 
 
 👨‍💻 Review my projects at [https://github.com/Anna-Ashton](https://github.com/italanta)
+
+https://github-readme-stats.vercel.app/api?username=Anna-Ashton&show_icons=true&locale=en" alt="Anna-Ashton" />
 
 ### Interested ?
 
