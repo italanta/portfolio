@@ -104,7 +104,8 @@ EXPERIENCE I
 | 16/02/23 	| art: Social impact cooperative section| completed | [#32](https://github.com/italanta/elewa-group/issues/32) |
 | 17/02/23	| art: Social impact beyond-business section| completed | [#33](https://github.com/italanta/elewa-group/issues/33) |
 | 27/02/23	| art: Create Contact banner| completed | [#317](https://github.com/italanta/elewa-group/issues/317) |
-
+| 07/03/23	| art: Create venture lab detail hero| completed | [#409](https://github.com/italanta/elewa-group/issues/409) |
+| 08/03/23	| art: Create venture labs investments section| completed | [#404](https://github.com/italanta/elewa-group/issues/404) |
 
 ### The technologies I used
 
